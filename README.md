@@ -1,2 +1,2 @@
 # TL-DETR
-KeypointDETR for 3D tooth landmark detection
+3D tooth landmark detection
