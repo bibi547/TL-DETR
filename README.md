@@ -1,5 +1,7 @@
 # Tooth Landmark Detection
 
+End-to-End 3D Tooth Landmark Detection
+
 This work is the third solution of MICCAI 2024 Challenge [3DTeethLand](https://www.synapse.org/Synapse:syn57400900/wiki/627259).
 
 It is also an extended application of [KeypointDETR](https://github.com/bibi547/KeypointDETR) for tooth landmark detection.
